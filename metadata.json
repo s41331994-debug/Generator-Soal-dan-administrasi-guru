@@ -1,0 +1,10 @@
+{
+  "name": "Remix Generator Adm Guru \u0026 Bank Soal Adaptif V3.2",
+  "description": "A smart platform to generate teaching materials and adaptive assessments specifically for SMA (High School) level, aligned with the \u0027Kurikulum Merdeka\u0027.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
